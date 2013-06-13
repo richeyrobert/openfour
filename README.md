@@ -19,3 +19,6 @@ That way the devices will be able to easily and programmatically communicate wit
 Devices will need to start a "listening" function as well that will listen for commands from the main server and respond to them. 
 
 The devices will communicate with the main server and be able to respond to commands from that server. 
+
+<h4>notes</h4>
+The Pyro event server and the Pyro name server need to be running.
